@@ -1,0 +1,1 @@
+# trust-wallet-core-typescript-react-vite
