@@ -1,1 +1,1 @@
-# trust-wallet-core-typescript-react-vite
+# Getting Started with Trustwallet Wallet Core in ViteJs
